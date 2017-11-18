@@ -1,0 +1,4 @@
+/token.json
+/creds.json
+/vendor/**
+/composer.lock
